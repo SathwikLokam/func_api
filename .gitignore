@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+*.pyo
+*.pyd
 
 # Distribution / packaging
 dist/
@@ -23,3 +26,4 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+

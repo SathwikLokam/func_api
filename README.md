@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-pip install -e .
+pip install func_api
 ```
 
 ## Quick Start
